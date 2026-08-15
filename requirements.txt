@@ -1,0 +1,28 @@
+# --- Data collection & preprocessing ---
+requests
+beautifulsoup4
+pandas
+tqdm
+nltk
+pyarrow
+
+# --- Dataset generation & fine-tuning ---
+transformers
+accelerate
+sentencepiece
+datasets
+trl
+peft
+bitsandbytes
+xformers
+unsloth @ git+https://github.com/unslothai/unsloth.git
+
+# --- RAG / retrieval ---
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+
+# --- Core ---
+torch
