@@ -1,4 +1,4 @@
-# VictorianGPT
+# 🕯️ VictorianGPT
 
 **A fine-tuned, retrieval-augmented chatbot that speaks and reasons like an educated gentleman of late 19th-century England.**
 
