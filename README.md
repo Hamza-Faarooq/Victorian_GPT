@@ -6,7 +6,7 @@ VictorianGPT takes a modern instruction-tuned LLM (Qwen2.5-3B-Instruct), fine-tu
 
 > Ask it about your day, and it answers with poetic, period-accurate sympathy.
 > Ask it about the *Demeter*'s storm in *Dracula*, and it retrieves the actual passage before responding.
-   
+      
 ---
 
 ## Table of Contents
